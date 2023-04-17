@@ -14,4 +14,4 @@ I took machine vision course so these are the exercises from that course.
 - **Exercise 5 ->** fixing noisy(salt and pepper) image with median filter, using unsharp filter via fspecial
 - **Exercise 6 ->** distance transforms and watershed transform
 - **Exercise 7 ->** determining the regions corresponding to weld failures with region growing, segmentation with texture filters, segmentation the image into two regions based on the texture, image segmentation with the created mask
-- **Exercise 7 ->** JPEG image compression algorithm is based on Discrete Cosine Transfor, compress and uncompress an image via wcompress function
+- **Exercise 8 ->** JPEG image compression algorithm is based on Discrete Cosine Transfor, compress and uncompress an image via wcompress function
